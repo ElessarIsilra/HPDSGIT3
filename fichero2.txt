@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ficeh212 
+=======
+Fichero2texto 
+>>>>>>> 33797b809c6808a1264f089e84df707b7f04004f
